@@ -1,2 +1,2 @@
 # VA-DeepClassify
-Repositorio de Framework CNN para clasificación de imágenes con transfer learning.
+Repositorio de Herramienta para crear modelos CNN de clasificación de imágenes aplicando transfer learning.
